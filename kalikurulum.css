@@ -1,0 +1,21 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    font-family: sans-serif;
+}
+
+.background strong{
+    color: red;
+}
+.background p{
+    font-weight: inherit;
+    color: black;
+}
+.background a{
+    text-decoration: none;
+    color: red;
+    font-weight: bold;
+}
+.container{
+    
+}

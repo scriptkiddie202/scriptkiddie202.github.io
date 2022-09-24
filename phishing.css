@@ -1,0 +1,28 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    font-family: sans-serif;
+}
+.container{
+    background-image: url(çok.jpg);
+    width:100%; height:650px;
+      background-repeat : no-repeat; 
+      background-position:center right;    
+      width: 100%;
+      height: 100vh;   
+}
+.post_content strong{
+    color: red;
+    text-decoration:underline;
+    line-height:25px;
+    
+}
+.post_content a{
+    text-decoration: none;
+    color: red;
+    font-weight: bold;
+}
+.post_content p{
+    font-weight: bold;
+}
+
